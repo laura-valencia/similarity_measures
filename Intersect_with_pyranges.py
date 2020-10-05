@@ -28,4 +28,4 @@ def main(Afile, Bfile, outfile):
     Get_intersection(df_A, df_B, outfile)
 
 if __name__ == "__main__": 
-    main("A.bed", "B.bed", "Valencia_Task1.bed")
+    main("A.bed", "B.bed", "Results.bed")
